@@ -182,7 +182,7 @@ Nothing here is financial, legal or security advice. Always do your own research
 ## Support this project
 
 If this repository helped you, consider:
-
+⭐ If this guide helped you — consider giving the repo a star
 - starring the repo
 - sharing it with other traders
 - linking it in discussions about crypto security
@@ -193,9 +193,8 @@ Stay safe and trade smart.
 
 This repository provides an overview of the tools.
 
-⭐ If this guide helped you — consider giving the repo a star
-
 Full step-by-step guides and comparisons are available in the articles below.
+
 
 - Crypto Security Guide for Traders
 - Best VPN for Crypto Trading
