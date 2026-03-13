@@ -1,3 +1,12 @@
+## Additional Resources
+
+If you want to learn more about privacy and security for crypto trading, you can also read these guides:
+
+- [VPN Guide for Crypto Traders (EN)](https://odessacool1.github.io/vpn-global-blog/vpn-guide-2026.html)
+- [VPN Guide для криптотрейдеров (RU)](https://odessacool1.github.io/my-vpn-blog/vpn-guide-2026-ru.html)
+
+
+
 # Crypto Security Toolkit
 
 > A practical open resource for crypto traders, DeFi users and privacy-focused market participants.
