@@ -30,6 +30,22 @@ Trading tools usually fall into these groups:
 
 ---
 
+## TradingView
+
+TradingView is one of the most popular platforms for crypto and financial market analysis.
+
+It provides powerful charting tools, indicators, strategy testing and real-time market data used by millions of traders worldwide.
+
+Recommended for:
+• Crypto traders
+• Technical analysis
+• Strategy backtesting
+• Futures trading
+
+Start using [TradingView](https://ru.tradingview.com/pricing/?share_your_love=odessac99):
+
+---
+
 ## Why tools matter
 
 The right toolset can help with:
