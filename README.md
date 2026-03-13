@@ -182,6 +182,7 @@ Nothing here is financial, legal or security advice. Always do your own research
 ## Support this project
 
 If this repository helped you, consider:
+
 ⭐ If this guide helped you — consider giving the repo a star
 - starring the repo
 - sharing it with other traders
