@@ -23,7 +23,7 @@ Hardware wallets help reduce risk by:
 
 | Wallet | Security Level | Main Strength |
 |--------|----------------|---------------|
-| Ledger | Very High | Broad compatibility |
+| OneKey | Very High | Broad compatibility |
 | Trezor | Very High | Trusted self-custody option |
 
 ---
