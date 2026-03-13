@@ -46,6 +46,22 @@ Start using [TradingView](https://ru.tradingview.com/pricing/?share_your_love=od
 
 ---
 
+## CoinStats
+
+CoinStats is a powerful crypto portfolio tracker used by millions of investors.
+
+It allows you to track your entire crypto portfolio across multiple exchanges and wallets in one place.
+
+Features:
+• Portfolio tracking
+• DeFi wallet tracking
+• Real-time price alerts
+• Exchange integrations
+
+[Start tracking](https://invite.coinstats.app/r?i=wtZQ091773418818520) your crypto portfolio:
+
+---
+
 ## Why tools matter
 
 The right toolset can help with:
