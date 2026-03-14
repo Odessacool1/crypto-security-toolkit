@@ -61,7 +61,7 @@ Read the provider’s claims carefully and avoid unrealistic marketing promises.
 
 | VPN | Privacy | Speed | Notes |
 |-----|---------|-------|------|
-| NordVPN | High | High | Strong all-round option |
+| [Fornex](https://fornex.com/code/vlj0nv/) | High | High | Strong all-round option |
 | Surfshark | High | High | Good for multiple devices |
 | Proton VPN | High | Medium | Privacy-first reputation |
 
