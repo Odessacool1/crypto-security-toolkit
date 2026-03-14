@@ -1,4 +1,4 @@
-# Crypto Security Toolkit
+# Awesome Crypto Security Toolkit
 
 > A practical open resource for crypto traders, DeFi users and privacy-focused market participants.
 
