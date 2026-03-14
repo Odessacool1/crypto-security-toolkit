@@ -8,12 +8,6 @@ layout: default
 
 > A practical open resource for crypto traders, DeFi users and privacy-focused market participants.
 
-<p align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  <a href="https://fornex.com/code/vlj0nv/" target="_blank" style="display:inline-block; padding:15px 30px; background-color:#ff7a00; color:white; font-size:18px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow: 0 4px 6px rgba(255, 122, 0, 0.3); transition: all 0.3s ease;">
-    🛡️ PROTECT YOUR ASSETS: GET 10% OFF FORNEX VPN
-  </a>
-</p>
-
 Essential tools, security stack and infrastructure every crypto trader should know.
 
 This repository is a curated knowledge base for crypto traders, DeFi users and anyone who wants to operate more safely in the crypto ecosystem.
