@@ -1,6 +1,6 @@
 title: Crypto Security Toolkit
 description: Essential security tools, practices, and infrastructure for crypto traders and Web3 users. A curated guide to protecting your assets.
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 plugins:
   - jekyll-seo-tag
