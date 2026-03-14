@@ -23,8 +23,8 @@ Hardware wallets help reduce risk by:
 
 | Wallet | Security Level | Main Strength |
 |--------|----------------|---------------|
-| OneKey | Very High | Broad compatibility |
-| Trezor | Very High | Trusted self-custody option |
+| [OneKey](https://onekey.so/r/HRNVL6) | Very High | Broad compatibility |
+| [Ledger](https://shop.ledger.com/?r=4e0dfd7965c8) | Very High | Trusted self-custody option |
 
 ---
 
@@ -57,7 +57,7 @@ Recommended for:
 
 ---
 
-### Ledger
+### 🔐Ledger
 
 Ledger is one of the most trusted hardware wallets used by crypto traders and long-term investors.
 
