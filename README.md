@@ -1,5 +1,3 @@
-
-
 # Crypto Security Toolkit
 
 > A practical open resource for crypto traders, DeFi users and privacy-focused market participants.
@@ -9,6 +7,23 @@ Essential tools, security stack and infrastructure every crypto trader should kn
 This repository is a curated knowledge base for crypto traders, DeFi users and anyone who wants to operate more safely in the crypto ecosystem.
 
 It brings together the core infrastructure used by experienced market participants to improve privacy, reduce risk and build a more secure workflow.
+
+---
+
+## Table of Contents
+
+- Why this project exists
+- Categories
+- Quick Overview
+- Typical Crypto Security Architecture
+- Basic Setup for a Crypto Trader
+- Common Threats in Crypto
+- Operational Security Rules
+- Who this repository is for
+- Security Principles
+- Full Guides
+- Contributing
+- Disclaimer
 
 ---
 
@@ -120,6 +135,22 @@ More details: [security.md](./security.md)
 
 ---
 
+## Typical Crypto Security Architecture
+
+A typical infrastructure used by experienced traders looks like this:
+
+User Device  
+↓  
+VPN Connection  
+↓  
+Exchange / DeFi Platform  
+↓  
+Hardware Wallet for Storage  
+
+This layered approach reduces attack surface and protects long-term funds.
+
+---
+
 ## Basic Setup for a Crypto Trader
 
 A simple practical infrastructure may look like this:
@@ -131,6 +162,35 @@ A simple practical infrastructure may look like this:
 - avoid storing seed phrases in cloud notes
 - verify URLs before logging into exchanges
 - separate trading activity from long-term storage
+
+---
+
+## Common Threats in Crypto
+
+Crypto users are commonly exposed to:
+
+- phishing websites
+- fake wallet applications
+- clipboard malware
+- SIM swap attacks
+- public WiFi interception
+- browser extension exploits
+
+A strong operational setup reduces the probability of these risks.
+
+---
+
+## Operational Security Rules
+
+Experienced traders often follow simple rules:
+
+- never reuse passwords
+- separate long-term storage from trading wallets
+- never store seed phrases digitally
+- verify URLs before logging in
+- avoid unknown browser extensions
+- keep operating systems updated
+- use hardware wallets for large holdings
 
 ---
 
@@ -154,6 +214,35 @@ Tools do not replace judgment.
 Even the best stack will not protect a user who clicks phishing links, reuses passwords or ignores basic operational security.
 
 Security is a system, not a single product.
+
+---
+
+## Beginner Warning
+
+Many new crypto users underestimate operational security.
+
+Losing funds rarely happens because of blockchain failures.
+
+It usually happens because of:
+
+- phishing
+- compromised devices
+- password reuse
+- malicious browser extensions
+
+Security awareness is as important as trading skills.
+
+---
+
+## Full Guides
+
+Detailed guides and comparisons:
+
+- Crypto Security Guide for Traders
+- Best VPN for Crypto Trading
+- How Crypto Traders Protect Their Accounts
+- VPN Setup for Exchanges
+- Hardware Wallet Security Guide
 
 ---
 
@@ -183,22 +272,8 @@ Nothing here is financial, legal or security advice. Always do your own research
 
 ## Support this project
 
-If this repository helped you, consider:
+If this repository helped you:
 
-⭐ If this guide helped you — consider giving the repo a star
-- starring the repo
-- sharing it with other traders
-- linking it in discussions about crypto security
-
-Stay safe and trade smart.
-
-## Full Guides
-
-This repository provides an overview of the tools.
-
-Full step-by-step guides and comparisons are available in the articles below.
-
-
-- Crypto Security Guide for Traders
-- Best VPN for Crypto Trading
-- How Crypto Traders Protect Their Accounts
+⭐ consider giving the repo a star  
+🔗 share it with other traders  
+🛡 build a safer crypto workflow
