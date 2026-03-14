@@ -1,3 +1,9 @@
+---
+title: Hardware Wallets - Cold Storage for Crypto
+description: Secure your crypto assets with top hardware wallets like Ledger and OneKey. Essential self-custody guide.
+layout: default
+---
+
 # Hardware Wallets
 
 Hardware wallets are one of the strongest protection layers available to crypto holders.
@@ -23,8 +29,8 @@ Hardware wallets help reduce risk by:
 
 | Wallet | Security Level | Main Strength |
 |--------|----------------|---------------|
-| [OneKey](https://onekey.so/r/HRNVL6) | Very High | Broad compatibility |
-| [Ledger](https://shop.ledger.com/?r=4e0dfd7965c8) | Very High | Trusted self-custody option |
+| <a href="https://onekey.so/r/HRNVL6" target="_blank" style="color:#00e599; font-weight:bold;">OneKey</a> | Very High | Broad compatibility |
+| <a href="https://shop.ledger.com/?r=4e0dfd7965c8" target="_blank" style="color:#000000; background-color:#ffffff; padding:2px 5px; border-radius:3px; font-weight:bold;">Ledger</a> | Very High | Trusted self-custody option |
 
 ---
 
@@ -53,7 +59,11 @@ Recommended for:
 • DeFi users  
 • Traders securing profits off exchanges  
 
-[Official website](https://onekey.so/r/HRNVL6/shop)
+<p align="left" style="margin-top: 15px; margin-bottom: 30px;">
+  <a href="https://onekey.so/r/HRNVL6/shop" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#00e599; color:#0f172a; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow: 0 4px 6px rgba(0, 229, 153, 0.3); transition: all 0.3s ease;">
+    🛒 GET YOUR ONEKEY HARDWARE WALLET
+  </a>
+</p>
 
 ---
 
@@ -68,8 +78,11 @@ Recommended for:
 • DeFi users
 • Traders securing profits off exchanges
 
-[Official website:](https://shop.ledger.com/?r=4e0dfd7965c8)
-
+<p align="left" style="margin-top: 15px; margin-bottom: 30px;">
+  <a href="https://shop.ledger.com/?r=4e0dfd7965c8" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#000000; color:#ffffff; border: 1px solid #444; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); transition: all 0.3s ease;">
+    🛒 SHOP LEDGER OFFICIAL STORE
+  </a>
+</p>
 
 ---
 

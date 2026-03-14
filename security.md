@@ -1,3 +1,9 @@
+---
+title: Crypto Security Habits - Essential Protections
+description: Learn the core layers of crypto security, including 2FA, password management, and network protection strategies.
+layout: default
+---
+
 # Security Tools and Habits
 
 Crypto security is not one app, one browser extension or one product.

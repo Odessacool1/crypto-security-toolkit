@@ -1,3 +1,9 @@
+---
+title: Endpoint Security for Crypto Traders - Device Hygiene
+description: Why device security is critical for crypto traders. Learn how to protect your endpoint from malware and phishing.
+layout: default
+---
+
 # Endpoint Security for Crypto Traders
 
 While wallets and exchanges are often discussed, the device itself is one of the most critical security layers.

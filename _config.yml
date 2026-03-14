@@ -1,0 +1,7 @@
+title: Crypto Security Toolkit
+description: Essential security tools, practices, and infrastructure for crypto traders and Web3 users. A curated guide to protecting your assets.
+theme: just-the-docs
+color_scheme: dark
+plugins:
+  - jekyll-seo-tag
+url: "https://odessacool1.github.io/crypto-security-toolkit/"

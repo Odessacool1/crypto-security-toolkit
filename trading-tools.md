@@ -1,3 +1,9 @@
+---
+title: Crypto Trading Tools - Charting and Portfolio Tracking
+description: Elevate your crypto trading strategy with top tools like TradingView and CoinStats for analysis and tracking.
+layout: default
+---
+
 # Trading Tools
 
 Professional crypto trading is not only about entering and exiting positions.
@@ -42,7 +48,11 @@ Recommended for:
 • Strategy backtesting
 • Futures trading
 
-Start using [TradingView](https://www.tradingview.com/?aff_id=164413):
+<p align="left" style="margin-top: 15px; margin-bottom: 30px;">
+  <a href="https://www.tradingview.com/?aff_id=164413" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#2962ff; color:#ffffff; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow: 0 4px 6px rgba(41, 98, 255, 0.3); transition: all 0.3s ease;">
+    📈 START USING TRADINGVIEW
+  </a>
+</p>
 
 ---
 
@@ -58,7 +68,11 @@ Features:
 • Real-time price alerts
 • Exchange integrations
 
-[Start tracking](https://invite.coinstats.app/r?i=wtZQ091773418818520) your crypto portfolio:
+<p align="left" style="margin-top: 15px; margin-bottom: 30px;">
+  <a href="https://invite.coinstats.app/r?i=wtZQ091773418818520" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#ff8e02; color:#ffffff; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow: 0 4px 6px rgba(255, 142, 2, 0.3); transition: all 0.3s ease;">
+    📊 START TRACKING YOUR PORTFOLIO
+  </a>
+</p>
 
 ---
 

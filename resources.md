@@ -1,3 +1,9 @@
+---
+title: Extra Crypto Security Resources - Learn and Build Habits
+description: A collection of practical ideas, resources, and mindsets to help crypto users build a better operating environment.
+layout: default
+---
+
 # Extra Resources
 
 This page collects practical ideas and supporting concepts that help crypto users build a better operating environment.
