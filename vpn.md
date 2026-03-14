@@ -77,6 +77,23 @@ Read the provider’s claims carefully and avoid unrealistic marketing promises.
 
 ---
 
+## Full VPN Guide for Crypto Traders
+
+This repository provides a short overview of VPN tools.
+
+A full guide with detailed explanations, comparisons and setup instructions is available here:
+
+👉 https://odessacool1.github.io/vpn-global-blog/vpn-guide-2026.html
+
+---
+
+The guide explains:
+
+• why traders use VPNs  
+• how VPNs protect exchange logins  
+• when VPN use can be risky  
+• how to choose the right provider
+
 ## Best use case
 
 A VPN makes the most sense as part of a security routine:
