@@ -8,6 +8,12 @@ layout: default
 
 > A practical open resource for crypto traders, DeFi users and privacy-focused market participants.
 
+<p align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <a href="https://fornex.com/code/vlj0nv/" target="_blank" style="display:inline-block; padding:15px 30px; background-color:#ff7a00; color:white; font-size:18px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow: 0 4px 6px rgba(255, 122, 0, 0.3); transition: all 0.3s ease;">
+    🛡️ PROTECT YOUR ASSETS: GET 10% OFF FORNEX VPN
+  </a>
+</p>
+
 Essential tools, security stack and infrastructure every crypto trader should know.
 
 This repository is a curated knowledge base for crypto traders, DeFi users and anyone who wants to operate more safely in the crypto ecosystem.
@@ -61,8 +67,28 @@ It is a practical starting point for building a stronger crypto infrastructure.
 - [Crypto Exchanges](./exchanges.md)
 - [Hardware Wallets](./wallets.md)
 - [Trading Tools](./trading-tools.md)
+- [⚡ PROFITSKY — TradingView Analyzer](./profitsky.md)
 - [Endpoint Security](./endpoint-security.md)
 - [Extra Resources](./resources.md)
+
+---
+
+## ⚡ Featured: PROFITSKY
+
+PROFITSKY is a premium multi-confluence market analyzer for TradingView.
+
+It combines 12 indicators into a single weighted scoring system with Smart Money Concepts, auto Risk Management and Multi-Timeframe analysis — all in one clean overlay.
+
+| Feature | Description |
+|---------|-------------|
+| Confluence Engine | 12 weighted indicators → single 0–100% score |
+| Smart Money | Order Blocks, Fair Value Gaps |
+| Risk Management | Auto SL/TP with configurable R:R |
+| Market Regime | Trending / Ranging / Volatile detection |
+| MTF Dashboard | Signals across 5 timeframes |
+
+[→ Learn more about PROFITSKY](./profitsky.md)
+
 ---
 
 ## Quick Overview
@@ -115,11 +141,12 @@ Professional traders rely on better charting, portfolio tracking and market rese
 
 | Tool | Purpose |
 |------|---------|
+| PROFITSKY | Multi-confluence TradingView analyzer |
 | TradingView | Charting and technical analysis |
 | CoinStats | Portfolio tracking |
 | Messari | Market research and intelligence |
 
-More details: [trading-tools.md](./trading-tools.md)
+More details: [trading-tools.md](./trading-tools.md) · [PROFITSKY](./profitsky.md)
 
 ---
 

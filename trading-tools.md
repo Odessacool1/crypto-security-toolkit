@@ -30,9 +30,35 @@ Trading tools usually fall into these groups:
 
 | Tool | Purpose | Best For |
 |------|---------|----------|
+| PROFITSKY | Multi-confluence market analyzer | Signal-driven traders |
 | TradingView | Charting and technical analysis | Chart-based traders |
 | CoinStats | Portfolio tracking | Multi-wallet monitoring |
 | Messari | Market research | Research-driven users |
+
+---
+
+## ⚡ PROFITSKY — Premium Market Analyzer
+
+PROFITSKY is a professional TradingView Pine Script indicator that combines 12 indicators into a single confluence scoring system.
+
+Instead of reading multiple indicators separately, PROFITSKY gives you one clear score (0–100%) and only fires signals when the threshold is met.
+
+Core features:
+
+- **Confluence Engine** — weighted scoring across EMA, Supertrend, RSI, MACD, Stochastic, ADX, Bollinger Bands, VWAP, Chandelier Exit, Ichimoku, TSI and Volume
+- **Smart Money** — auto-detected Order Blocks and Fair Value Gaps
+- **Risk Management** — auto Stop Loss and 3 Take Profit levels on every signal
+- **Market Regime** — classifies market as Trending, Ranging or Volatile
+- **MTF Dashboard** — RSI and MACD across 5 timeframes
+- **Live Dashboard** — real-time panel showing all indicator scores
+
+<p align="left" style="margin-top: 15px; margin-bottom: 30px;">
+  <a href="https://www.tradingview.com/?aff_id=164413" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#7C4DFF; color:#ffffff; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow: 0 4px 6px rgba(124, 77, 255, 0.3); transition: all 0.3s ease;">
+    ⚡ USE PROFITSKY ON TRADINGVIEW
+  </a>
+</p>
+
+[→ Full PROFITSKY documentation](./profitsky.md)
 
 ---
 
