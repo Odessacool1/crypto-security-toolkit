@@ -33,7 +33,7 @@ Important factors include:
 |----------|------|---------------|----------|
 | <a href="https://www.binance.com/register?ref=380132431" target="_blank" style="color:#f3ba2f; font-weight:bold;">Binance (Register)</a> | CEX | Liquidity and ecosystem depth | Broad market access |
 | <a href="https://partner.bybit.com/b/156391" target="_blank" style="color:#f6a528; font-weight:bold;">Bybit (Bonus)</a> | CEX | Strong derivatives environment | Active traders |
-| OKX | CEX | Product range and advanced tools | Intermediate to advanced users |
+| [OKX](https://okx.com/join/83372245) | CEX | Product range and advanced tools | Intermediate to advanced users |
 | KuCoin | CEX | Broad altcoin coverage | Users exploring smaller assets |
 
 ---
